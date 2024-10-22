@@ -1,6 +1,15 @@
-# awesome-sway-security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-sway-security
 
-![Fuel_Logo_Black_RGB](./README.assets/Fuel_Logo_Black_RGB.webp)
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/awesome-sway-security-logo-dark-theme.png">
+        <img alt="SwayLibs logo" width="400px" src="images/awesome-sway-security-logo-light-theme.png">
+    </picture>
+</p>
+
+<p align="center">
+        <img src="https://awesome.re/badge.svg" />
+</p>
 
 Sway is a domain-specific programming language designed for implementing smart contracts on blockchain platforms, most notably for the Fuel  Virtual Machine (Fuel VM). It is heavily inspired by Rust's approach to  systems programming and aims to bring modern programming language  features and tooling to smart contract development. Sway focuses on  performance, fine-grained control, and extensive use of static analysis  to prevent common security issues.
 
