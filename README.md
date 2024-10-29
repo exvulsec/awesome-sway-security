@@ -17,9 +17,11 @@ Sway is a domain-specific programming language designed for implementing smart c
 
 ## 🔐 Sway Language Security
 
+* [Fuel Attackathon](https://medium.com/immunefi/top-5-bugs-from-the-fuel-attackathon-80eda8920505)
 * [Introduction to Sway Language Security Audit](https://exvul.com/introduction-to-the-sway-language-security-audit/) 
 * [Sway Security Audit Guidelines](https://exvul.com/sway-security-guidelines/)
-* [Sway Standards - Security Information (SRC-11)](https://docs.fuel.network/docs/sway-standards/src-11-security-information/) 
+* [Sway Standards - Security Information (SRC-11)](https://docs.fuel.network/docs/sway-standards/src-11-security-information/)
+
 
 
 
