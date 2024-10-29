@@ -24,6 +24,15 @@ Sway is a domain-specific programming language designed for implementing smart c
 
 
 
+## 📝 Sway Audit Reports
+
+* [Mira Exchange](https://docs.mira.ly/developer-guides/security-audit) 
+* [SwayLend](https://www.halborn.com/audits/reserve/swaylend-protocol)
+* [Bako Safe](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Bako%20Safe%20Sway%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf)
+* [Fuel earn points](https://app.fuel.network/earn-points/report-audit-hexens.pdf)
+
+
+
 
 ## 💡 Contribution
 
