@@ -33,6 +33,35 @@ Sway is a domain-specific programming language designed for implementing smart c
 
 
 
+## 🚨Fuel Security Incident
+
+* [Swaylend ](https://x.com/EXVULSEC/status/1853448371945525434) - A compiler bug affected a lending protocol.
+* 
+
+
+
+## 🔬 Analyze Of Security Incident
+
+
+
+## 📚 Fuel Security Resources
+
+* [Fuel-Blockchain-Critical-Vulnerability](https://github.com/minato7namikazi/Fuel-Blockchain-Critical-Vulnerability)
+* [Fuel VM Binary Analysis](https://jtriley.substack.com/p/fuel-vm-binary-analysis)
+* [The Fuel Virtual Machine Architecture](https://jtriley.substack.com/p/the-fuel-virtual-machine-architecture)
+* [Sway Notes](https://github.com/jecikpo/Audit-Notes/blob/main/Sway-storage.md)
+* [Advanced Sway Concepts](https://x.com/immunefi/status/1803118910494884317)
+
+
+
+## 🛠️ Tools
+
+* [Fuel Debugger](https://github.com/fuellabs/fuel-debugger)
+* [Fuel Disassember](https://github.com/otrho/fuel-dis)
+* [Sway Playground](https://github.com/FuelLabs/sway-playground)
+
+
+
 
 ## 💡 Contribution
 
