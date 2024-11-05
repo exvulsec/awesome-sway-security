@@ -10,8 +10,11 @@
 
 <p align="center">
      <img src="https://awesome.re/badge.svg" /><img alt="GitHub Repo stars" 		 src="https://img.shields.io/github/stars/exvulsec/awesome-sway-security">
-    <img alt='Chat on telegram' src='https://img.shields.io/badge/Chat on telegram-blue.svg?style=for-the-	badge&logo=telegram&logoColor' />
 </p>   
+
+<p align="center">
+        <img alt='Chat on telegram' src='https://img.shields.io/badge/Chat on telegram-blue.svg?style=for-the-	badge&logo=telegram&logoColor' />
+</p>
 
 
 
