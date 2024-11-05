@@ -12,10 +12,6 @@
      <img src="https://awesome.re/badge.svg" /><img alt="GitHub Repo stars" 		 src="https://img.shields.io/github/stars/exvulsec/awesome-sway-security">
 </p>   
 
-<p align="center">
-        <img alt='Chat on telegram' src='https://img.shields.io/badge/Chat on telegram-blue.svg?style=for-the-	badge&logo=telegram&logoColor' />
-</p>
-
 
 
 
@@ -29,7 +25,7 @@ Sway is a domain-specific programming language designed for implementing smart c
 * [Sway Security Audit Guidelines](https://exvul.com/sway-security-guidelines/)
 * [Sway Standards - Security Information (SRC-11)](https://docs.fuel.network/docs/sway-standards/src-11-security-information/) 
 
-
+ 
 
 
 ## 📝 Sway Audit Reports
@@ -71,6 +67,8 @@ Sway is a domain-specific programming language designed for implementing smart c
 * [Fuel Debugger](https://github.com/fuellabs/fuel-debugger)
 * [Fuel Disassember](https://github.com/otrho/fuel-dis)
 * [Sway Playground](https://github.com/FuelLabs/sway-playground)
+
+
 
 
 
