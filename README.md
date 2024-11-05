@@ -42,6 +42,10 @@ Sway is a domain-specific programming language designed for implementing smart c
 
 ## 🔬 Analyze Of Security Incident
 
+* [Swaylend](https://x.com/EXVULSEC/status/1853448371945525434)
+
+
+
 
 
 ## 📚 Fuel Security Resources
