@@ -5,11 +5,15 @@
         <source media="(prefers-color-scheme: dark)" srcset="images/awesome-sway-security-logo-dark-theme.png">
         <img alt="SwayLibs logo" width="400px" src="images/awesome-sway-security-logo-light-theme.png">
     </picture>
-</p>
+    <br>
+
 
 <p align="center">
-        <img src="https://awesome.re/badge.svg" />
-</p>
+     <img src="https://awesome.re/badge.svg" /><img alt="GitHub Repo stars" 		 src="https://img.shields.io/github/stars/exvulsec/awesome-sway-security">
+</p>   
+
+
+
 
 Sway is a domain-specific programming language designed for implementing smart contracts on blockchain platforms, most notably for the Fuel  Virtual Machine (Fuel VM). It is heavily inspired by Rust's approach to  systems programming and aims to bring modern programming language  features and tooling to smart contract development. Sway focuses on  performance, fine-grained control, and extensive use of static analysis  to prevent common security issues.
 
@@ -23,7 +27,7 @@ Sway is a domain-specific programming language designed for implementing smart c
 * [Sway Standards - Security Information (SRC-11)](https://docs.fuel.network/docs/sway-standards/src-11-security-information/)
 
 
-
+ 
 
 
 ## 📝 Sway Audit Reports
@@ -33,6 +37,41 @@ Sway is a domain-specific programming language designed for implementing smart c
 * [SwayLend](https://www.halborn.com/audits/reserve/swaylend-protocol)
 * [Bako Safe](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Bako%20Safe%20Sway%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf)
 * [Fuel earn points](https://app.fuel.network/earn-points/report-audit-hexens.pdf)
+
+
+
+## 🚨Fuel Security Incident
+
+* [Swaylend ](https://x.com/EXVULSEC/status/1853448371945525434) - A compiler bug affected a lending protocol.
+* 
+
+
+
+## 🔬 Analyze Of Security Incident
+
+* [Swaylend](https://x.com/EXVULSEC/status/1853448371945525434)
+
+
+
+
+
+## 📚 Fuel Security Resources
+
+* [Fuel-Blockchain-Critical-Vulnerability](https://github.com/minato7namikazi/Fuel-Blockchain-Critical-Vulnerability)
+* [Fuel VM Binary Analysis](https://jtriley.substack.com/p/fuel-vm-binary-analysis)
+* [The Fuel Virtual Machine Architecture](https://jtriley.substack.com/p/the-fuel-virtual-machine-architecture)
+* [Sway Notes](https://github.com/jecikpo/Audit-Notes/blob/main/Sway-storage.md)
+* [Advanced Sway Concepts](https://x.com/immunefi/status/1803118910494884317)
+
+
+
+## 🛠️ Tools
+
+* [Fuel Debugger](https://github.com/fuellabs/fuel-debugger)
+* [Fuel Disassember](https://github.com/otrho/fuel-dis)
+* [Sway Playground](https://github.com/FuelLabs/sway-playground)
+
+
 
 
 
