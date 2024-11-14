@@ -27,7 +27,7 @@ Sway is a domain-specific programming language designed for implementing smart c
 * [Sway Standards - Security Information (SRC-11)](https://docs.fuel.network/docs/sway-standards/src-11-security-information/)
 
 
- 
+
 
 
 ## 📝 Sway Audit Reports
@@ -37,29 +37,31 @@ Sway is a domain-specific programming language designed for implementing smart c
 * [SwayLend](https://www.halborn.com/audits/reserve/swaylend-protocol)
 * [Bako Safe](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Bako%20Safe%20Sway%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf)
 * [Fuel earn points](https://app.fuel.network/earn-points/report-audit-hexens.pdf)
+* [Fuel Network Attackathon](https://drive.google.com/file/d/1L-8jHGhR8UqvRlHRhUXXreSRkGUVJsPU/view)
 
 
 
-## 🚨Fuel Security Incident
+## 🚨 Security Incidents
 
 * [Swaylend ](https://x.com/EXVULSEC/status/1853448371945525434) - A compiler bug affected a lending protocol.
+
+
+
+## 🔬 Analyze Of Security Incidents
+
+* [Swaylend](https://x.com/EXVULSEC/status/1853448371945525434)
 * 
 
 
 
-## 🔬 Analyze Of Security Incident
-
-* [Swaylend](https://x.com/EXVULSEC/status/1853448371945525434)
 
 
+## 📚 Security Resources
 
-
-
-## 📚 Fuel Security Resources
-
-* [Fuel-Blockchain-Critical-Vulnerability](https://github.com/minato7namikazi/Fuel-Blockchain-Critical-Vulnerability)
+* [Fuel Blockchain Critical Vulnerability](https://github.com/minato7namikazi/Fuel-Blockchain-Critical-Vulnerability)
 * [Fuel VM Binary Analysis](https://jtriley.substack.com/p/fuel-vm-binary-analysis)
 * [The Fuel Virtual Machine Architecture](https://jtriley.substack.com/p/the-fuel-virtual-machine-architecture)
+* [Fuel VM Binary Analysis](https://jtriley.substack.com/p/fuel-vm-binary-analysis)
 * [Sway Notes](https://github.com/jecikpo/Audit-Notes/blob/main/Sway-storage.md)
 * [Advanced Sway Concepts](https://x.com/immunefi/status/1803118910494884317)
 
@@ -70,7 +72,8 @@ Sway is a domain-specific programming language designed for implementing smart c
 * [Fuel Debugger](https://github.com/fuellabs/fuel-debugger)
 * [Fuel Disassember](https://github.com/otrho/fuel-dis)
 * [Sway Playground](https://github.com/FuelLabs/sway-playground)
-
+* [Fuel Explorer](https://app.fuel.network/)
+* [Sway Analyzer](https://github.com/ourovoros-io/sway-analyzer)
 
 
 
