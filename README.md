@@ -36,7 +36,8 @@ Sway is a domain-specific programming language designed for implementing smart c
 * [Bako Safe](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Bako%20Safe%20Sway%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf)
 * [Fuel earn points](https://app.fuel.network/earn-points/report-audit-hexens.pdf)
 * [Fuel Network Attackathon](https://drive.google.com/file/d/1L-8jHGhR8UqvRlHRhUXXreSRkGUVJsPU/view)
-
+* [Swaylend IOP](https://reports.immunefi.com/swaylend_iop)
+* [Fluid](https://drive.google.com/file/d/1qhiI26aB9MTXfo-hLW8Qy9ki2ueCudKN/view)
 
 
 ## 🚨 Security Incidents
