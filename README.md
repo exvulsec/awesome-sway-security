@@ -36,6 +36,7 @@ Sway is a domain-specific programming language designed for implementing smart c
 * [Fuel earn points](https://app.fuel.network/earn-points/report-audit-hexens.pdf)
 * [Fluid](https://drive.google.com/file/d/1qhiI26aB9MTXfo-hLW8Qy9ki2ueCudKN/view)
 * [Spark](https://docs.sprk.fi/security/audit-report)
+* [Pyth](https://github.com/pyth-network/audit-reports/blob/main/2024_09_03/pyth_fuel_pull_oracle_audit_final.pdf)
 
 
 
