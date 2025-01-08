@@ -40,8 +40,9 @@ Sway is a domain-specific programming language designed for implementing smart c
 
 
 
-
 ## 🥇 Sway Audit Competition
+
+* [Fluid IOP](https://reports.immunefi.com/fluid-protocol)
 
 * [Swaylend IOP](https://reports.immunefi.com/swaylend_iop)
 * [Fuel Network Attackathon](https://drive.google.com/file/d/1L-8jHGhR8UqvRlHRhUXXreSRkGUVJsPU/view)
