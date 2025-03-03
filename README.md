@@ -86,6 +86,7 @@ Sway is a domain-specific programming language designed for implementing smart c
 * [Fuel Connector](https://github.com/FuelLabs/fuel-connectors)
 * [Sway Analyzer](https://github.com/ourovoros-io/sway-analyzer)
 * [Squid sdk](https://github.com/subsquid/squid-sdk)
+* [Sentio](https://www.sentio.xyz/)
 
 
 
